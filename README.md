@@ -13,5 +13,6 @@ Next.js (App Router, TypeScript, shadcn/ui, Tailwind CSS), Django + Django REST 
 - [Project structure](docs/PROJECT_STRUCTURE.md)
 - [Business rules](docs/BUSINESS_RULES.md)
 - [Data model](docs/DATA_MODEL.md)
+- [Roadmap](docs/ROADMAP.md) ([Stage 0 walkthrough](docs/STAGE0_WALKTHROUGH.md))
 
 ![Dashboard](<docs/screenshots/Dashboard (HR admin).png>)
