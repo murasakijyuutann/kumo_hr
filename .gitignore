@@ -31,3 +31,6 @@ next-env.d.ts
 *.swp
 .DS_Store
 Thumbs.db
+
+db.sqlite3
+*.mo
